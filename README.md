@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global team collaboration software market is estimated at approximately **$40–$45 billion** in 2025–2026 (expanding toward **$85+ billion by 2033**), while the conversational AI market is estimated at **$15–$18 billion** (projected to surpass **$80+ billion by 2034**). The sector exhibits **moderate-to-high concentration** at the top—dominated by mega-suite ecosystems (Microsoft Teams and Google Workspace) and category anchor Slack (Salesforce)—alongside vibrant specialized niches for developer ChatOps, async work (Twist), and sovereign/open-source federated networks (Matrix/Rocket.Chat/Mattermost).
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Slack (Salesforce)](https://slack.com)**  
-
-  Industry-leading cloud team communication and ChatOps hub featuring Slack AI channel summaries, Workflow Builder, Huddles, and thousands of bot/API integrations.
-
-
-
-- **[Microsoft Teams](https://microsoft.com)**  
-
-  Enterprise collaboration and messaging suite deeply integrated with Microsoft 365, Copilot AI meeting recaps, voice/video conferencing, and enterprise governance.
-
-
-
-- **[Discord](https://discord.com)**  
-
-  Real-time voice, video, and text community platform widely adopted by developer communities, open-source projects, and AI bot ecosystems via rich Gateway/slash-command APIs.
-
-
-
-- **[Google Chat (Google Workspace)](https://google.com)**  
-
-  Cloud team messaging and Spaces collaboration tool integrated with Gemini AI summaries, Google Meet, Drive, and automated webhook/AppSheet bots.
-
-
-
-- **[Twist (by Doist)](https://twist.com)**  
-
-  Async-first team communication platform organized around structured threads rather than noisy real-time chat streams for distributed teams.
-
-
-
-- **[Flock](https://flock.com)**  
-
-  Cloud team messaging and productivity suite combining channels, video conferencing, shared to-dos, polls, and custom bot integrations.
-
-
-
-- **[Chanty](https://chanty.com)**  
-
-  Team chat and collaboration platform featuring unlimited searchable message history, built-in Kanban task management, and audio/video calls.
-
-
-
-- **[Mattermost Cloud](https://mattermost.com)**  
-
-  Managed cloud hosting for Mattermost offering turnkey enterprise security, AI copilot plugins, incident playbooks, and zero-maintenance scaling.
-
-
-
-- **[Rocket.Chat Cloud](https://rocket.chat)**  
-
-  Managed cloud deployment of Rocket.Chat providing omnichannel customer messaging, federated communication, and compliance controls.
-
-
-
-- **[Element Matrix Services (EMS)](https://element.io)**  
-
-  Managed hosting and enterprise support for Matrix homeservers and Element clients, delivering sovereign, end-to-end encrypted messaging.
+| Platform | Company Valuation / Annual Revenue | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Teams](https://microsoft.com)** | ~$3.1T Market Cap / ~$245B Ann. Rev. (Microsoft) | $4.00 / user / month (Teams Essentials, annual) | **Free Forever Plan**: 60-min group meeting cap (100 participants max), 30-hr 1:1 calls, 5 GB cloud storage per user. | Enterprise collaboration suite deeply integrated with Microsoft 365, Copilot AI meeting recaps, voice/video conferencing, and governance. |
+| **[Google Chat (Google Workspace)](https://google.com)** | ~$2.1T Market Cap / ~$350B Ann. Rev. (Alphabet) | $7.00 / user / month (Business Starter, annual) | **Free for Personal Accounts** (chat.google.com); **14-Day Free Trial** for Business Starter (up to 300 users, 30 GB pooled storage/user, 100-person Meet). | Cloud team messaging and Spaces collaboration tool integrated with Gemini AI summaries, Google Meet, Drive, and webhook/AppSheet bots. |
+| **[Slack (Salesforce)](https://slack.com)** | ~$250B Market Cap / ~$38B Ann. Rev. (Salesforce; Acq. $27.7B) | $7.25 / user / month (Pro Plan, billed annually) | **Free Forever Plan**: 90-day searchable message & file history cap, max 10 app integrations, 1:1 Huddles only (no group Huddles). | Industry-leading cloud team communication and ChatOps hub featuring Slack AI channel summaries, Workflow Builder, Huddles, and bot/API integrations. |
+| **[Discord](https://discord.com)** | ~$8B–$10B Valuation / ~$950M Ann. Rev. | $2.99 / month (Nitro Basic) or $9.99 / month (Nitro) | **Free Forever Plan**: Unlimited voice/text servers, max 20 MB file upload limit (free users), standard 720p 30fps screen streaming. | Real-time voice, video, and text community platform widely adopted by developer communities, open-source projects, and AI bot ecosystems. |
+| **[Mattermost Cloud](https://mattermost.com)** | ~$250M–$323M Valuation / ~$33.1M Ann. Rev. | $10.00 / user / month (Professional Plan, annual) | **Free Forever Mode (Entry)**: Limited to 10,000 recent channel message history on free cloud/entry servers, standard community plugins. | Managed cloud hosting for Mattermost offering turnkey enterprise security, AI copilot plugins, incident playbooks, and zero-maintenance scaling. |
+| **[Rocket.Chat Cloud](https://rocket.chat)** | ~$76M–$95M Valuation / ~$31.5M Ann. Rev. | $4.00 / user / month (Starter/Pro cloud tier, annual) | **Free Starter Plan**: Hard limit of up to 50 registered users, standard community features and self-managed connectivity; 30-day enterprise trial. | Managed cloud deployment of Rocket.Chat providing omnichannel customer messaging, federated communication, and compliance controls. |
+| **[Chanty](https://chanty.com)** | ~$30M Ann. Rev. (Prior to acquisition) | $3.00 / user / month (Business Plan, billed annually) | **Free Forever Plan**: Hard limit of up to 5 team members, 20 GB team storage, max 10 integrations, 1:1 audio/video calls. | Team chat and collaboration platform featuring unlimited searchable message history, built-in Kanban task management, and audio/video calls. |
+| **[Twist (by Doist)](https://twist.com)** | ~$20M Ann. Rev. / $100M+ Cumulative (Bootstrapped) | $5.00 / user / month (Unlimited Plan, billed annually) | **Free Forever Plan**: 1-month searchable message & thread history limit, up to 5 integrations, 5 GB total team file storage. | Async-first team communication platform organized around structured threads rather than noisy real-time chat streams for distributed teams. |
+| **[Element Matrix Services (EMS)](https://element.io)** | ~$48M–$52M Funding Raised / ~$12.5M Ann. Rev. | ~$3.00–$5.00 / user / month (ESS Pro / Enterprise Cloud) | **Free Forever Plan (Public Matrix.org)**: Max 10 MB per attachment, 100 MB/24h upload limit, 500 MB/28-day cap (Community ESS self-host: up to 100 seats). | Managed hosting and enterprise support for Matrix homeservers and Element clients, delivering sovereign, end-to-end encrypted messaging. |
+| **[Flock](https://flock.com)** | ~$25M–$45M Invested Capital (Bhavin Turakhia Group) | $4.50 / user / month (Flock Pro, billed annually) | **Free Starter Plan**: Up to 20 team members, 10,000 searchable messages, 10 public channels, 5 GB total storage, 1:1 video calls only. | Cloud team messaging and productivity suite combining channels, video conferencing, shared to-dos, polls, and custom bot integrations. |
 
 
 
