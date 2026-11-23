@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Team-Chat/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Team-Chat?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Team-Chat/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Team-Chat?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Team-Chat/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversational-AI-Team-Chat?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Team-Chat/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Team-Chat/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -68,7 +68,7 @@ The global team collaboration software market is estimated at approximately **$4
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub community star count:
+Sorted in descending order by GitHub community Stars_Count:
 
 1. **[Open WebUI (`open-webui/open-webui`)](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
    Extensible, self-hosted AI chat interface and multi-user workspace supporting OpenAI, Ollama, vLLM, custom pipelines, RAG, and collaborative agent channels.
